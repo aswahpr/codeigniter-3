@@ -25,7 +25,7 @@
             </div>
         </header>
         <div style="margin:20px auto;width:100px;height:100px;border-radius:100px;overflow:hidden">
-            <img src="<?php echo base_url(); ?>assets/image/Logo.jpg" style="margin:0;width:100%;height:100%;">
+            <img src="<?php echo base_url(); ?>assets/images/Logo.jpg" style="margin:0;width:100%;height:100%;">
         </div>
         <div style="padding:0 20px">
             <div style="margin-bottom:10px">
